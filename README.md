@@ -1,1 +1,1 @@
-# tech_analysis
+# techinical_analysis
